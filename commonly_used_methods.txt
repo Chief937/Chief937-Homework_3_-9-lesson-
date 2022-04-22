@@ -1,0 +1,13 @@
+Методы, которые по моему мнению используются чаще всего
+
+1. (list)
+list.append(x), list.sort([key=функция]), list.clear(), list.copy(), list.index(x, [start [, end]])
+
+2. (dict)
+dict.copy(), dict.items(), dict.keys(), dict.values(), dict.update([other])
+
+3. (set)
+set.add(elem), set.discard(elem), set.update(other, ...), set.intersection_update(other, ...), set.difference_update(other, ...) 
+
+3. (str)
+len(S), S.find(str, [start],[end]), S.split(символ), S.format(*args, **kwargs)
